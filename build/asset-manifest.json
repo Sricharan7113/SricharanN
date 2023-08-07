@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SricharanN/static/css/main.521450e8.css",
+    "main.js": "/SricharanN/static/js/main.dd9fbd3e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/SricharanN/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AboutPic.png": "/SricharanN/static/media/AboutPic.3a164b45d355e636c4ae.png",
+    "static/media/Banner.jpg": "/SricharanN/static/media/Banner.f04e3c25060fddb856f2.jpg",
+    "static/media/Github.png": "/SricharanN/static/media/Github.e2202acc8674878e42f5.png",
+    "static/media/Linkedin.png": "/SricharanN/static/media/Linkedin.d7d945aa98787ec248de.png",
+    "static/media/RockPaperScissors.png": "/SricharanN/static/media/RockPaperScissors.3eefd218ae98b8c4ada6.png",
+    "index.html": "/SricharanN/index.html",
+    "main.521450e8.css.map": "/SricharanN/static/css/main.521450e8.css.map",
+    "main.dd9fbd3e.js.map": "/SricharanN/static/js/main.dd9fbd3e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/SricharanN/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521450e8.css",
+    "static/js/main.dd9fbd3e.js"
+  ]
+}

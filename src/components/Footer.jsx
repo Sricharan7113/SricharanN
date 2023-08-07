@@ -31,7 +31,7 @@ function Footer() {
 
                 <form action="https://sricharan7113.github.io/SricharanN" method="POST" onSubmit={MailSubmited} className="ContactForm" id="ContactForm">
                     <input type="hidden" name="_captcha" value="false" />
-                    <input type="hidden" name="_next" value="https://mail.google.com/mail/u/0/#inbox" />
+                    <input type="hidden" name="_next" value="https://sricharan7113.github.io/SricharanN" />
                     <input type="hidden" name="_subject" value="🎉You Have Recieved a Feedback For Your Portfolio"></input>
                     <input type="text" name="Name" required className="Input" placeholder="Name" />
                     <input type="email" name="Email" required className="Input" placeholder="Email" />
